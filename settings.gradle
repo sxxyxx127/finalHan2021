@@ -1,0 +1,2 @@
+rootProject.name = "finalHan2021"
+include ':app'
